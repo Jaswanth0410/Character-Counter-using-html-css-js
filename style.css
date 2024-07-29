@@ -1,0 +1,25 @@
+.container-fluid{
+    background-color: lightpink;
+    border-radius: 20px;
+}
+
+.text-center{
+    text-align: center;
+}
+
+textarea{
+    margin-left: 30px;
+    width: 90%;
+    height: 100px;
+}
+
+.foo{
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+body{
+    background-color: rgb(211, 85, 85);
+}
